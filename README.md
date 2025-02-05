@@ -2,6 +2,7 @@
 
 - install 20.9.0 node to install tailwind
 - npm install -D tailwindcss postcss autoprefixer
+- deploying to GH Pages
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
